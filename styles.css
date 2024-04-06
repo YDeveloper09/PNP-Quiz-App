@@ -1,0 +1,38 @@
+body{
+    background-image: url("/pnp-crame-facade.png");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container {
+margin: 100px auto;
+text-align: center;
+}
+
+button{
+    border-radius: 5%;
+    height: 2.5rem;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+#startBtn{
+    background-color: green;
+    color: whitesmoke;
+    height: 2rem;
+    width: 5rem;
+    border-radius: 10%;
+}
+
+.list-group-item {
+    font-size: .70rem;
+}
+
+footer{
+    text-align: center;
+    color: rgb(243, 247, 247);
+    text-shadow: 2px solid black;
+    opacity: 60%;
+}
